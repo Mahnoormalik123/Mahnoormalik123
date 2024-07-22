@@ -22,7 +22,10 @@ Description:  In this project, I conducted a comprehensive data analysis and app
 
 This project showcased my proficiency in Python, data manipulation, EDA, visualization, and various machine learning techniques, demonstrating the practical application of data science in analyzing and understanding.
 
+## 📈 GitHub Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahnoormalik123&show_icons=true&theme=radical)
 
  # 📫 Contact Me
  - Email: [mahnoor1515271@gmail.com]
+ - Linkedin: [https://www.linkedin.com/in/-mahnoormalik]
 
