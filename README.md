@@ -11,8 +11,12 @@ Results-oriented and analytical individual with a strong foundation in **Python,
 - **Data Preprocessing**: Feature Scaling, Feature Engineering, Encoding, Handling Missing Values
 - **DataStructures and algorithms**:  Leetcode
 
+  ## 💻 Machine Learning Models
+- **Regression**: Linear Regression, Logistic Regression
+- **Classification**: Decision Trees, Random Forest, Support Vector Machines (SVM), K-Nearest Neighbors (KNN), Naive Bayes
+
 ## 🏆 Achievements
-- **International Hackathon Winner**
+- **International Hackathon Winner** 
 - **Harvard CS50 Puzzle Day Winner (9/9)**
 - **Moderator at icodeguru**
 
@@ -30,6 +34,9 @@ This project showcased my proficiency in Python, data manipulation, EDA, visuali
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahnoormalik123&show_icons=true&theme=radical)
+
+## 🚀 LeetCode Progress
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=noorifications__&theme=dark)
 
 ## 📫 Contact Me
 - **Email**: [mahnoor1515271@gmail.com](mailto:mahnoor1515271@gmail.com)
