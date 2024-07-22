@@ -46,7 +46,7 @@ This project showcased my proficiency in Python, data manipulation, EDA, visuali
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahnoormalik123&show_icons=true&theme=radical)
 
 ## 🚀 LeetCode Progress
-![LeetCode Stats](https://github.com/Mahnoormalik123/.github/workflows/raw/main/leetcode-stats-card.svg)
+![LeetCode Stats](https://github.com/mahnoor1515271__.github/workflows/raw/main/leetcode-stats-card.svg)
 
 ## 📫 Contact Me:
 - **Email**: [mahnoor1515271@gmail.com](mailto:mahnoor1515271@gmail.com)
