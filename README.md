@@ -46,6 +46,12 @@ I am a results-driven and analytical individual with a robust foundation in **Py
 ### [Claude-3-Opus Hackathon](https://lablab.ai/event/24h-claude-hackathon/global-insight/global-insight-claude-3-opus)
 ![Hackathon Certificate](https://lablab.ai/u/@noorifications__/cly4dht1r000rguy3wxvxx3xr)
 
+### [Harvard cs50 puzzle](https://www.linkedin.com/posts/-mahnoormalik_cs50-puzzleday-teamwork-activity-7184323266524680192-WRNH/?utm_source=share&utm_medium=member_android)
+![Certificate](https://www.linkedin.com/posts/-mahnoormalik_cs50-puzzleday-teamwork-activity-7184323266524680192-WRNH?utm_source=share&utm_medium=member_android)
+
+### [Wordsprint developers hackathon](https://www.linkedin.com/posts/-mahnoormalik_icodeguru-wpbrigade-icodeguru-activity-7174560082330849280-q8Uj/?utm_source=share&utm_medium=member_android)
+![Hackathon Certificate](https://www.linkedin.com/posts/-mahnoormalik_icodeguru-wpbrigade-icodeguru-activity-7174560082330849280-q8Uj?utm_source=share&utm_medium=member_android)
+
 ---
 
 ## 📈 Projects
