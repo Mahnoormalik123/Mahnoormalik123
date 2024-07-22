@@ -69,9 +69,6 @@ I am a results-driven and analytical individual with a robust foundation in **Py
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahnoormalik123&show_icons=true&theme=radical)
 
-## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=mahnoor1515271__&theme=dark)
-
 ---
 
 ## 📫 Contact Me
