@@ -8,10 +8,10 @@ Results-oriented and analytical individual with a strong foundation in Python, E
  - Powerbi
  - SQL
  - EDA
-# - Machile learning
+ - Machile learning
 
  # 📈 Projects
- Project 1: [Indian Food ML project](https://github.com/Mahnoormalik123/Indian-food-project)
+ # Project 1: [Indian Food ML project](https://github.com/Mahnoormalik123/Indian-food-project)
 Description:  In this project, I conducted a comprehensive data analysis and applied various machine learning techniques to a dataset of Indian foods. The project workflow included:
 
  • Exploratory Data Analysis (EDA) : Performed data exploration, cleaning, and visualization to understand the data distribution and identify patterns and insights.
