@@ -20,6 +20,16 @@ Results-oriented and analytical individual with a strong foundation in **Python,
 - **Harvard CS50 Puzzle Day Winner (9/9)**
 - **Moderator at icodeguru**
 
+## 🚀 International events Participation:
+### International Hackathon 1: [Phi-2 technology hackathon]( https://lablab.ai/event/phi-2-technology-24-hours-challenge/the-phi-generation/phi-generation-graph-detective)
+![Hackathon Certificate](https://lablab.ai/u/@noorifications__/clt62ee6b0065fy5c2u0s1qh3)
+
+### International Hackathon 2 : [Gemini ultra Hackathon](https://lablab.ai/event/gemini-ultra-hackathon/rilex/accesify)
+![Hackathon Badge](https://lablab.ai/u/@noorifications__/cly4duslt003lbtt6cexvzmh0)
+
+### International Hackathon 3: [Claude-3-opus Hackathon](https://lablab.ai/event/24h-claude-hackathon/global-insight/global-insight-claude-3-opus)
+![Hackathon Badge](https://lablab.ai/u/@noorifications__/cly4dht1r000rguy3wxvxx3xr)
+
 ## 📈 Projects
 
 ### [Indian Food ML Project](https://github.com/Mahnoormalik123/Indian-food-project)
@@ -32,12 +42,12 @@ Results-oriented and analytical individual with a strong foundation in **Python,
 
 This project showcased my proficiency in Python, data manipulation, EDA, visualization, and various machine learning techniques, demonstrating the practical application of data science in analyzing and understanding Indian cuisine.
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahnoormalik123&show_icons=true&theme=radical)
 
-## 🚀 LeetCode Progress
+## 🚀 LeetCode Progress:
 ![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=mahnoor1515271__&theme=dark)
 
-## 📫 Contact Me
+## 📫 Contact Me:
 - **Email**: [mahnoor1515271@gmail.com](mailto:mahnoor1515271@gmail.com)
 - **LinkedIn**: [linkedin.com/in/-mahnoormalik](https://www.linkedin.com/in/-mahnoormalik)
