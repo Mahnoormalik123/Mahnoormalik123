@@ -37,8 +37,6 @@ I am a results-driven and analytical individual with a robust foundation in **Py
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
 
-![Build Status](https://img.shields.io/github/workflow/status/your-repo/your-workflow)
-
 ---
 
 ## 🌍 International Events Participation
