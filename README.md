@@ -1,4 +1,5 @@
-# 👋 Hi, I'm **Mahnoor Malik**!
+# 👋 Hi, I'm *Mahnoor Malik*! 🌟
+![Animated Name Badge](https://media.giphy.com/media/3o6MbcgkJttr4c2WmY/giphy.gif)
 ---
 
 ## 📖 About Me
