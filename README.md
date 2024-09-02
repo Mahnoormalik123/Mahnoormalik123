@@ -1,11 +1,10 @@
-# 👋 Hi, I'm *Mahnoor Malik*! 🌟
----
+##  Hi 🌟, I’m Mahnoor Malik!
 
-## 📖 About Me
-I am a results-driven and analytical individual with a solid foundation in **Python**, **Exploratory Data Analysis (EDA)**, **MS Excel**, **PowerBI**, and **SQL**. I have worked with **Generative AI** models, including those available on platforms like **Hugging Face** and **Grok**, such as **Generative Adversarial Networks (GANs)** and **Variational Autoencoders (VAEs)**. I am transitioning to a career in **AI and Data Science** and am actively developing my skills in **Data Structures and Algorithms (DSA)** through self-study and problem-solving on **LeetCode**.
-
-As an **International Hackathon Winner**, I have demonstrated my ability to tackle complex problems and contribute to innovative projects. I am passionate about applying my skills to drive advancements in AI and data science and exploring new opportunities in this dynamic field.
-
+🚀 **AI Enthusiast** | **Data Science** | **Python Developer**  
+🏆 International Hackathon Winner  
+🔍 Enhancing skills in **Machine Learning** 
+🔧 Exploring **Data Structures and Algorithms**, and **Generative AI** 
+💡 Passionate about **Innovative AI Projects**
 
 ---
 ## 🚀 Skills & Tools
@@ -37,8 +36,7 @@ As an **International Hackathon Winner**, I have demonstrated my ability to tack
 - **Moderator at icodeguru** 💼
 - **Leetcode badges** 
 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/>
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode Badge" width="100"/> <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="LeetCode Badge" width="100"/>
 
 ---
 
