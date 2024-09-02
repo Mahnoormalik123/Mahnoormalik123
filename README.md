@@ -32,6 +32,7 @@ I am a results-driven and analytical individual with a robust foundation in **Py
 - **International Hackathon Winner** 🏅
 - **Harvard CS50 Puzzle Day Winner (9/9)** 🎉
 - **Moderator at icodeguru** 💼
+![LeetCode Badges](https://assets.leetcode.com/static_assets/marketing/2024-50.gif)
 
 ---
 
