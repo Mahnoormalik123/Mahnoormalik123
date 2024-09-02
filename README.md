@@ -1,9 +1,13 @@
 ##  Hi 🌟, I’m Mahnoor Malik!
 
-🚀 **AI Enthusiast** | **Data Science** | **Python Developer**  
+🚀 **AI Enthusiast** | **Data Science** | **Python Developer** 
+
 🏆 International Hackathon Winner  
+
 🔍 Enhancing skills in **Machine Learning** 
+
 🔧 Exploring **Data Structures and Algorithms**, and **Generative AI** 
+
 💡 Passionate about **Innovative AI Projects**
 
 ---
