@@ -1,11 +1,31 @@
 # 👋 Hi, I'm *Mahnoor Malik*! 🌟
 
- _____ _           _        _        __  __ _    
-|_   _| |         | |      | |      |  \/  (_)   
-  | | | |__   __ _| |_ ___ | |_ __ _| \  / |_ ___ 
-  | | | '_ \ / _` | __/ _ \| __/ _` | |\/| | / __|
- _| |_| | | | (_| | || (_) | || (_| | |  | | \__ \
-|_____|_| |_|\__,_|\__\___/ \__\__,_|_|  |_|_|___/
+![GitHub Followers](https://img.shields.io/github/followers/Mahnoormalik123?label=Follow&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Mahnoormalik123?label=Stars&style=social)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Text</title>
+    <style>
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
+        }
+        .animated-text {
+            font-size: 2em;
+            color: #3498db;
+            animation: blink 1s step-start infinite;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="animated-text">👋 Hi, I'm Mahnoor Malik!</h1>
+</body>
+</html>
 
 ---
 
