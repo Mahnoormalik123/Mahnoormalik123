@@ -5,6 +5,12 @@
 I am a results-driven and analytical individual with a robust foundation in **Python**, **Exploratory Data Analysis (EDA)**, **MS Excel**, **PowerBI**, and **SQL**. Currently, I am transitioning to a career in **AI and Data Science** and actively honing my skills in **Data Structures and Algorithms (DSA)** through self-study and problem-solving on **LeetCode**. I am an **International Hackathon Winner** and eager to contribute to innovative projects in AI/Data Science.
 
 ---
+### Project Status
+![Build Status](https://img.shields.io/github/workflow/status/Mahnoormalik123/Mahnoormalik123/CI)
+![Test Coverage](https://img.shields.io/codecov/c/github/Mahnoormalik123/Mahnoormalik123)
+![License](https://img.shields.io/github/license/Mahnoormalik123/Mahnoormalik123)
+![Version](https://img.shields.io/github/v/release/Mahnoormalik123/Mahnoormalik123)
+
 
 ## 🚀 Skills & Tools
 
